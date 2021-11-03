@@ -1,6 +1,5 @@
 # Blog 
-Essa aplicação simula um blog
-Foi feita por:
+Essa aplicação simula um blog, foi feita por:
 - Bianca Ajalla Bernie Soria
 - Bruna Luzia Almeida Rodrigues
 - Robson Pimenta Moura Junior
